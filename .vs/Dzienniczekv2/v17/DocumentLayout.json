@@ -1,0 +1,448 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|c:\\users\\dariu\\onedrive\\studia\\archiwum\\dzienniczek\\dzienniczekv2\\przegladarka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|solutionrelative:przegladarka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\przegladarka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|solutionrelative:przegladarka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\przegladarka.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|solutionrelative:przegladarka.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\stronaglowna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|solutionrelative:stronaglowna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\stronaglowna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|solutionrelative:stronaglowna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\rejestracja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|solutionrelative:rejestracja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\rejestracja.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|solutionrelative:rejestracja.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\rejestracja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|solutionrelative:rejestracja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\rejestracja.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|solutionrelative:rejestracja.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\logowanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|solutionrelative:logowanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\zarzadzajoceny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|solutionrelative:zarzadzajoceny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\zarzadzajoceny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|solutionrelative:zarzadzajoceny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\studentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|solutionrelative:studentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\logowanie.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|solutionrelative:logowanie.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\zarzadzajoceny.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|solutionrelative:zarzadzajoceny.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\zarzadzanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|solutionrelative:zarzadzanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|solutionrelative:dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\logowanie.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|solutionrelative:logowanie.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\zarzadzajkursy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|solutionrelative:zarzadzajkursy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\zarzadzajkursy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|solutionrelative:zarzadzajkursy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\drukuj_studenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|solutionrelative:drukuj_studenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\oceny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|solutionrelative:oceny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\ocenyclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|solutionrelative:ocenyclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\zarzadzanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|solutionrelative:zarzadzanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\oceny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|solutionrelative:oceny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\drukuj_studenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D6FA7A-CB3D-487B-B730-511831C461AA}|Dzienniczekv2.csproj|solutionrelative:drukuj_studenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rejestracja.cs",
+              "DocumentMoniker": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Rejestracja.cs",
+              "RelativeDocumentMoniker": "Rejestracja.cs",
+              "ToolTip": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Rejestracja.cs",
+              "RelativeToolTip": "Rejestracja.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAAwGcAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-27T18:00:01.935Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rejestracja.resx",
+              "DocumentMoniker": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Rejestracja.resx",
+              "RelativeDocumentMoniker": "Rejestracja.resx",
+              "ToolTip": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Rejestracja.resx",
+              "RelativeToolTip": "Rejestracja.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-13T15:51:36.747Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Przegladarka.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Przegladarka.cs",
+              "RelativeDocumentMoniker": "Przegladarka.cs",
+              "ToolTip": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Przegladarka.cs [Projekt]",
+              "RelativeToolTip": "Przegladarka.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-27T18:00:01.924Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Przegladarka.resx",
+              "DocumentMoniker": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Przegladarka.resx",
+              "RelativeDocumentMoniker": "Przegladarka.resx",
+              "ToolTip": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Przegladarka.resx",
+              "RelativeToolTip": "Przegladarka.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-14T11:38:13.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rejestracja.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Rejestracja.Designer.cs",
+              "RelativeDocumentMoniker": "Rejestracja.Designer.cs",
+              "ToolTip": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Rejestracja.Designer.cs",
+              "RelativeToolTip": "Rejestracja.Designer.cs",
+              "ViewState": "AQIAACoBAAAAAAAAAAAiwD0BAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:51:27.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Logowanie.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Logowanie.Designer.cs",
+              "RelativeDocumentMoniker": "Logowanie.Designer.cs",
+              "ToolTip": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Logowanie.Designer.cs",
+              "RelativeToolTip": "Logowanie.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:51:49.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Logowanie.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Logowanie.cs",
+              "RelativeDocumentMoniker": "Logowanie.cs",
+              "ToolTip": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Logowanie.cs [Projekt]",
+              "RelativeToolTip": "Logowanie.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-27T18:00:01.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StronaGlowna.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\StronaGlowna.cs",
+              "RelativeDocumentMoniker": "StronaGlowna.cs",
+              "ToolTip": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\StronaGlowna.cs [Projekt]",
+              "RelativeToolTip": "StronaGlowna.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-27T18:00:01.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Przegladarka.cs",
+              "DocumentMoniker": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Przegladarka.cs",
+              "RelativeDocumentMoniker": "Przegladarka.cs",
+              "ToolTip": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Przegladarka.cs",
+              "RelativeToolTip": "Przegladarka.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAjwBEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-27T18:00:01.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StronaGlowna.cs",
+              "DocumentMoniker": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\StronaGlowna.cs",
+              "RelativeDocumentMoniker": "StronaGlowna.cs",
+              "ToolTip": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\StronaGlowna.cs",
+              "RelativeToolTip": "StronaGlowna.cs",
+              "ViewState": "AQIAAAABAAAAAAAAAAAIwJoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:55:24.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ZarzadzajOceny.cs",
+              "DocumentMoniker": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\ZarzadzajOceny.cs",
+              "RelativeDocumentMoniker": "ZarzadzajOceny.cs",
+              "ToolTip": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\ZarzadzajOceny.cs",
+              "RelativeToolTip": "ZarzadzajOceny.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAADwv3IAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:55:20.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ZarzadzajOceny.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\ZarzadzajOceny.cs",
+              "RelativeDocumentMoniker": "ZarzadzajOceny.cs",
+              "ToolTip": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\ZarzadzajOceny.cs [Projekt]",
+              "RelativeToolTip": "ZarzadzajOceny.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-27T18:00:01.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rejestracja.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Rejestracja.cs",
+              "RelativeDocumentMoniker": "Rejestracja.cs",
+              "ToolTip": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Rejestracja.cs [Projekt]",
+              "RelativeToolTip": "Rejestracja.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-27T18:00:01.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentClass.cs",
+              "DocumentMoniker": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\StudentClass.cs",
+              "RelativeDocumentMoniker": "StudentClass.cs",
+              "ToolTip": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\StudentClass.cs",
+              "RelativeToolTip": "StudentClass.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAiwGsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-27T18:00:01.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ZarzadzajOceny.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\ZarzadzajOceny.Designer.cs",
+              "RelativeDocumentMoniker": "ZarzadzajOceny.Designer.cs",
+              "ToolTip": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\ZarzadzajOceny.Designer.cs",
+              "RelativeToolTip": "ZarzadzajOceny.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:55:12.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Zarzadzanie.cs",
+              "DocumentMoniker": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Zarzadzanie.cs",
+              "RelativeDocumentMoniker": "Zarzadzanie.cs",
+              "ToolTip": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Zarzadzanie.cs",
+              "RelativeToolTip": "Zarzadzanie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-27T18:00:01.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Drukuj_Studenta.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Drukuj_Studenta.cs",
+              "RelativeDocumentMoniker": "Drukuj_Studenta.cs",
+              "ToolTip": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Drukuj_Studenta.cs [Projekt]",
+              "RelativeToolTip": "Drukuj_Studenta.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-27T18:00:01.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DBconnect.cs",
+              "DocumentMoniker": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\DBconnect.cs",
+              "RelativeDocumentMoniker": "DBconnect.cs",
+              "ToolTip": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\DBconnect.cs",
+              "RelativeToolTip": "DBconnect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-27T18:00:01.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ZarzadzajKursy.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\ZarzadzajKursy.cs",
+              "RelativeDocumentMoniker": "ZarzadzajKursy.cs",
+              "ToolTip": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\ZarzadzajKursy.cs [Projekt]",
+              "RelativeToolTip": "ZarzadzajKursy.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-27T18:00:01.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ZarzadzajKursy.cs",
+              "DocumentMoniker": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\ZarzadzajKursy.cs",
+              "RelativeDocumentMoniker": "ZarzadzajKursy.cs",
+              "ToolTip": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\ZarzadzajKursy.cs",
+              "RelativeToolTip": "ZarzadzajKursy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-27T18:00:01.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-27T18:00:01.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Logowanie.resx",
+              "DocumentMoniker": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Logowanie.resx",
+              "RelativeDocumentMoniker": "Logowanie.resx",
+              "ToolTip": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Logowanie.resx",
+              "RelativeToolTip": "Logowanie.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-13T15:51:51.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Oceny.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Oceny.cs",
+              "RelativeDocumentMoniker": "Oceny.cs",
+              "ToolTip": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Oceny.cs [Projekt]",
+              "RelativeToolTip": "Oceny.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-27T18:00:01.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OcenyClass.cs",
+              "DocumentMoniker": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\OcenyClass.cs",
+              "RelativeDocumentMoniker": "OcenyClass.cs",
+              "ToolTip": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\OcenyClass.cs",
+              "RelativeToolTip": "OcenyClass.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADMAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-27T18:00:01.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Drukuj_Studenta.cs",
+              "DocumentMoniker": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Drukuj_Studenta.cs",
+              "RelativeDocumentMoniker": "Drukuj_Studenta.cs",
+              "ToolTip": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Drukuj_Studenta.cs",
+              "RelativeToolTip": "Drukuj_Studenta.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-27T18:00:01.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Zarzadzanie.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Zarzadzanie.cs",
+              "RelativeDocumentMoniker": "Zarzadzanie.cs",
+              "ToolTip": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Zarzadzanie.cs [Projekt]",
+              "RelativeToolTip": "Zarzadzanie.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-27T18:00:01.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Oceny.cs",
+              "DocumentMoniker": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Oceny.cs",
+              "RelativeDocumentMoniker": "Oceny.cs",
+              "ToolTip": "C:\\Users\\dariu\\OneDrive\\STUDIA\\Archiwum\\Dzienniczek\\Dzienniczekv2\\Oceny.cs",
+              "RelativeToolTip": "Oceny.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwD8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-27T18:00:01.963Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

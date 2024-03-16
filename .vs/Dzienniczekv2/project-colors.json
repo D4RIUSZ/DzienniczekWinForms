@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "64d6fa7a-cb3d-487b-b730-511831c461aa": {
+      "ProjectGuid": "64d6fa7a-cb3d-487b-b730-511831c461aa",
+      "DisplayName": "Dzienniczekv2",
+      "ColorIndex": 0
+    },
+    "99ee1be3-6078-48d2-ad21-badf32313756": {
+      "ProjectGuid": "99ee1be3-6078-48d2-ad21-badf32313756",
+      "DisplayName": "Dzienniczek",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
